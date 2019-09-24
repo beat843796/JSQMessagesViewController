@@ -32,6 +32,12 @@ This release closes the [8.0.0 milestone](https://github.com/jessesquires/JSQMes
 
 - Fixed a number of issues regarding keyboard handling. Keyboard handling is now much more stable. (#1063, #1529, #799, #941, #1299, #558, #557)
 - Fixed potential crash with media cells. (#1377, #1741) Thanks @Lucashuang0802!
+=======
+7.3.5
+-----
+
+This libary is being deprecated.
+
 
 7.3.4
 -----
