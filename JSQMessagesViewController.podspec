@@ -15,5 +15,5 @@ Pod::Spec.new do |s|
 	s.frameworks = 'QuartzCore', 'CoreGraphics', 'CoreLocation', 'MapKit', 'MobileCoreServices', 'AVFoundation'
 	s.requires_arc = true
 
-	spec.homepage     = 'https://github.com/beat843796/JSQMessagesViewController'
+	s.homepage = 'https://github.com/beat843796/JSQMessagesViewController'
 end
